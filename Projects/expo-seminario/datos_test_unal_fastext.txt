@@ -1,0 +1,800 @@
+__label__74 inscripcion prueba ecaes
+__label__122 descripcion camino oficina admisiones
+__label__74 opcion inscribirse prueba tyt
+__label__162 transferir creditos instituciones educativas internacionales universidad nacional
+__label__85 documentos necesarios matricula
+__label__106 ofrece ayuda economica estudiantes seleccionados programapaes dirigido mejores bachilleres municipios pobres
+__label__60 documentos presentar inscripcion
+__label__36 divide codigo seguridad
+__label__0 consideran validas inscripciones fecha limite
+__label__154 respuesta acerca aspectos tomaron decidir admitido programa mejores bachilleres seleccionado
+__label__31 encontrar codigo icfes colegio
+__label__61 solicitar tarjeta identidad extranjero
+__label__131 requisitos cumplir ingresar universidad nacional
+__label__106 deseas obtener informacion programa becas gobierno estudiantes municipios pobres
+__label__33 codigo debo ingresar formulario valide bachillerato
+__label__62 solicitar cita previa inscripcion documento
+__label__100 apoyo adicional recibir completar proceso inscripcion
+__label__79 lista espera opciones inscripcion
+__label__54 tramites debo solicitar puntajes especiales prueba admision discapacidad deseo ingresar universidad nacional
+__label__168 algun procedimiento especifico obtener devolucion pagos adicionales realice error sistema
+__label__77 pasos debo seguir inscribi presentar icfes
+__label__145 busca igualdad condiciones examen admision
+__label__158 solucion caso sisben actualizado censo realiza finalizar proceso inscripcion
+__label__83 publicaran recibos matricula
+__label__32 medidas tomar incluir graduandos cohorte colegio formulario inscripcion
+__label__32 problemas enfrentar codigo icfes colegio formulario inscripcion
+__label__91 registro formulario fore online sede paz
+__label__34 codigo icfes correspondiente complete educacion primaria secundaria exterior
+__label__21 mejores fuentes informacion opciones carrera universidad
+__label__68 nivel ingles evalua examen clasificacion ingles
+__label__95 requisitos inscribirse paes victimas
+__label__70 debo resultado examen ingles
+__label__49 encontrar herramientas interactivas personas discapacidad cognitiva intelectual practicar prueba admision
+__label__157 explicacion resultados prueba admision muestren cero puntos
+__label__23 proporcionar informacion cantidad admitidos campo estudio
+__label__74 personas nacionalidad extranjera inscribirse presentando prueba similar icfes hayan origen
+__label__81 desembolsar matricula
+__label__72 ruego encarecidamente otorguen posibilidad presentar examen clasificacion lengua teniendo pude anteriormente motivos salud
+__label__64 obligatorio copia documento inscribirme
+__label__161 programas becas disponibles aspirantes extranjeros
+__label__166 requisitos obtener devolucion derechos inscripcion icfes previo
+__label__149 has comunicado algun representante universidad solicitar explicacion admision
+__label__7 dara forma admision universidad utilizara proceso admision
+__label__49 opciones interactivas disponibles adaptar prueba ingreso personas discapacidad cognitiva intelectual
+__label__42 datos inscripcion
+__label__18 areas dedica universidad carreras
+__label__47 ofrecen becas ayudas economicas personas discapacidad nombre programa
+__label__54 tipos discapacidad considerados acceder puntajes especiales prueba admision universidad nacional
+__label__20 universidades estudiar musica
+__label__166 proceso obtener reembolso pague linea use derechos inscripcion
+__label__161 algun requisito especial extranjeros deseen inscribirse
+__label__95 obtener informacion paes victimas
+__label__56 universidad nacional programas inclusion personas discapacidad auditiva
+__label__7 utilizaran resultados icfes criterio seleccion proceso admision
+__label__144 personas presentar pruebas especificas
+__label__166 requisitos adicionales solicitar devolucion derechos inscripcion utilizo pin
+__label__87 estara publicando calendario proceso matricula periodo sede bogota
+__label__149 comunico aspirantes puntaje menor resultado estandarizado admitidos universidad
+__label__17 programas ofrecen semestre
+__label__71 programacion examenes ingles
+__label__1 hora estaran disponibles resultados
+__label__42 algun motivo comprobante inscripcion
+__label__0 cierra periodo inscripciones
+__label__148 medidas toman garantizar igualdad oportunidades personas discapacidad examen
+__label__136 limite contestar evaluacion admision
+__label__106 programapaes mejores bachilleres dirigido estudiantes escuelas publicas
+__label__161 inscripcion encuentro extranjero
+__label__0 inicia formalmente proceso admision
+__label__55 toma diversidad inclusion personas discapacidad evaluacion solicitudes admision
+__label__39 normal codigo seguridad actualizado cambiar datos
+__label__64 verificar corrigio error numero documento
+__label__113 procedimiento seguir inscripcion aprobada entidad financiera
+__label__161 prueba encuentro
+__label__170 transferir derechos inscripcion persona incapacidad medica
+__label__112 localizar numeros factura confirmacion
+__label__149 gustaria razones admitido periodo academico
+__label__49 pruebas admision adaptadas personas discapacidad fisica motora
+__label__150 admitido trimestre matriculado programa movilidad peama
+__label__79 proceso establecer lista espera
+__label__31 codigo unico colegio icfes
+__label__86 tasa empleabilidad egresados programa curricular
+__label__116 limitacion edad concursar
+__label__141 tipo preguntas encuentran prueba examen admision
+__label__166 solicitar devolucion derechos inscripcion pin fecha posterior
+__label__39 debo codigo seguridad actualiza cambiar datos
+__label__17 encontrar catalogo cursos semestre
+__label__132 pago inscripciones oficialmente inscrita proceso admision
+__label__88 demora proceso registro formulario fore
+__label__32 debo codigo icfes ingrese reconocido formulario inscripcion
+__label__86 oportunidades investigacion practicas profesionales programa curricular
+__label__114 restriccion edad inscribirse
+__label__6 abren inscripciones periodo academico
+__label__148 institucion ofrece algun tipo recursos servicios adicionales personas discapacidad examen
+__label__0 horario atencion venta pin
+__label__150 motivo aceptado periodo solicitado participar programa movilidad peama
+__label__105 consisten ventajas programa admision especial mejores bachilleres
+__label__85 has revisado algun requisito adicional obtener cita
+__label__104 estudiantes seleccionados anualmente programa mejores bachilleres
+__label__112 tarda llegar comprobante pago virtual derechos inscripcion
+__label__14 debo inscripcion pagar derechos
+__label__0 restriccion comprar pin
+__label__46 algun formulario deba llenar corregir documento comprobante inscripcion
+__label__31 codigo dane instituto
+__label__79 documentos necesito registrarme lista espera
+__label__83 fecha emiten recibos matricula
+__label__106 quisieras colegio beneficiarios programa becas
+__label__16 pasos debo seguir modificar datos formulario inscripcion
+__label__60 nativo documento debo proceso inscripcion
+__label__62 debo necesito inscribirme documento extraviado reemplazado
+__label__23 darme informacion numero admitidos carrera
+__label__98 aplicar cupo indigenas indigena cuento ningun documento pertenencia resguardo indigena
+__label__111 debo buscar encontrar numeros factura confirmacion
+__label__166 realiza reembolso completo derechos inscripcion
+__label__98 espero esten quisiera solicitar ingreso base datos universidad nacional indigena respectiva inscripcion pregrado orientar proceso
+__label__61 proceso inscripcion
+__label__130 obtener informacion inscripcion
+__label__46 procedimiento modificar documento comprobante inscripcion
+__label__147 ofrecen ayuda preparar evaluacion admision
+__label__74 extranjeros inscribirse utilizando prueba equivalente icfes realizada origen
+__label__8 consultar horario convocatoria actual
+__label__83 programas ayuda asesoramiento inscripcion estudiantes activos
+__label__144 individuos entregar pruebas especificas
+__label__164 requisitos debo cumplir estudiante extranjero admitido institucion
+__label__59 favor necesito subsanen error formulario inscripcion indica persona discapacidad
+__label__166 procedimiento seguir solicitar devolucion derechos inscripcion utilice pin
+__label__133 acceder resultados admision
+__label__160 areas estudio postularme programa generacion
+__label__47 servicios apoyo especificos personas discapacidad nombre programa
+__label__49 recursos linea interactivos ayuden personas discapacidad cognitiva intelectual prepararse prueba admision
+__label__41 computador mostro algun mensaje confirmacion
+__label__110 opciones disponibles inscribirme programa curricular pregrado sede amazonia caribe orinoquiatumaco
+__label__41 inscrito correctamente luz
+__label__73 fecha limite presentar certificado suficiencia externo semestre
+__label__76 valido validante icfes
+__label__74 personas nacionalidad colombiana registrarse presentando prueba similar icfes hayan residencia previa
+__label__104 requisitos participar programa mejores bachilleres
+__label__30 costo carrera medicina
+__label__4 universidad ofrece opcion inscripcion tardia casos
+__label__125 oportunidades estudio personas mayores anos universidad
+__label__41 comprobar registro formulario muestra inscrito
+__label__158 requisitos adicionales proporcionar puntaje sisben formulario
+__label__104 municipio ubicado colegioinstitucion educativa
+__label__45 funcion comprobante inscripcion
+__label__162 fechas inicio clases universidad nacional extranjeros
+__label__41 encuentro opcion corregir numero equivoque ingresarlo formulario
+__label__130 inicia proceso inscripcion
+__label__83 fechas limite inscripcion estudiantes activos
+__label__166 obtener informacion proceso devolucion derechos inscripcion icfes
+__label__154 explicar factores tuvieron consideracion decidir aceptado programa mejores bachilleres elegido
+__label__59 procedimiento corregir error formulario inscripcion indique discapacidad inexistente
+__label__169 pague derechos inscripcion convocatoria previa use necesito pagar extra usarlos convocatoria actual
+__label__74 permite extranjeros registrarse traves prueba similar icfes procedencia
+__label__107 incentivos brinda programa admision especial mejores bachilleres municipios escasos recursos
+__label__95 privilegios obtienen participar programa victimas
+__label__130 procedimiento completo inscribirse
+__label__7 plazas estaran disponibles periodo academico asignaran
+__label__141 necesario estudiar previamente prueba examen admision
+__label__6 obtener informacion calendario academico proceso admision
+__label__111 opcion pagar derechos inscripcion forma virtual
+__label__163 institucion responsable otorgar numero registro examen extranjeros
+__label__157 motivo resultados prueba admision reflejan puntaje cero
+__label__54 procedimiento solicitar beca personas discapacidad universidad
+__label__110 forma solicitar carrera especifica sede amazonia caribe orinoquiatumaco disponible lista opciones
+__label__32 codigo icfes colegio aparece formulario
+__label__97 debo proceder nombre programa victimaspaes victimas disponible formulario inscripcion
+__label__39 restricciones renovar codigo seguridad
+__label__47 obtener informacion inscripcion postulacion carrera programa curricular interes
+__label__41 forma inscripcion completado correctamente
+__label__41 empezar utilizar plataforma
+__label__88 registro formulario fore linea
+__label__47 acciones realiza universidad incluir personas discapacidad
+__label__31 codigo debo utilizar identificar colegio gradue
+__label__41 chequear admitido proceso inscripcion
+__label__161 obligatorio presentar icfes inscribirse universidad
+__label__31 seguro codigo icfes colegio dejado institucion
+__label__112 obtener comprobante pago virtual derechos inscripcion esperar llegue correo electronico
+__label__97 procedimiento seguir acceso nombre programa victimaspaes victimas formulario inscripcion
+__label__131 toman logros academicos previos admision universidad nacional
+__label__157 condiciones influencia resultados prueba admision cero
+__label__94 costo inscripcion programa pregrado universidad nacional
+__label__126 unad estructura unal
+__label__83 forma dividir recibo pago partes
+__label__79 requisitos debo cumplir inscribirme lista espera
+__label__31 has olvidado codigo icfes antiguo colegio graduacion
+__label__112 ayudar encontrar numeros factura confirmacion
+__label__134 resultados admision inscribirme
+__label__161 pasos seguir aceptado aspirante extranjero
+__label__49 examenes prueba especificos personas discapacidad psicosocial mental
+__label__170 algun procedimiento especial solicitar devolucion derechos inscripcion incapacidad medica
+__label__161 informacion debo proporcionar inscribirme extranjero
+__label__74 opcion utilizar prueba realice universidad nacional icfes
+__label__46 pasos debo seguir documento incorrecto comprobante inscripcion
+__label__168 instancia especifica deba acudir solicitar devolucion pago derechos inscripcion caso cumplir criterio icfes
+__label__41 encuentro base datos
+__label__3 hora examen icfes
+__label__101 participe convocatoria admision programa comunidades indigenas
+__label__111 proceso pago virtual derechos inscripcion
+__label__9 duracion estimada proceso admision
+__label__64 seguir utilizando numero incorrecto realiza correccion
+__label__107 ventajas brinda programa admision especial mejores bachilleres municipios escasos recursos
+__label__33 valide grado bachiller codigo icfes debo escribir formulario
+__label__0 termina plazo inscribirse
+__label__91 pasa completo registro formulario fore sede paz
+__label__70 obtener informacion resultado examen ingles
+__label__161 extranjeros icfes admitidos
+__label__25 universidad dispone opciones estudios virtuales
+__label__134 documentos debo mano demostrar inscribi caso algun problema
+__label__98 hola interesado solicitar ingreso base datos universidad nacional indigena completar respectiva inscripcion pregrado indicarme correctamente
+__label__130 fecha inicio venta pin ciudad medellin periodo academico
+__label__93 beneficios proceso admision personas desplazadas victimas conflicto armado
+__label__138 areas conocimiento evaluan prueba admision
+__label__97 alternativa disponible formulario inscripcion aparece nombre programa victimaspaes victimas
+__label__47 algun tipo examen ingreso inscribirme postularme carrera programa curricular pregrado
+__label__156 informacion necesito consultar puntaje admision
+__label__85 encontrar detalles proceso registro fore
+__label__74 permite inscribirme proceso admision prueba icfes
+__label__72 seria concedas oportunidad presentar examen clasificacion ingles
+__label__60 afecta doble nacionalidad proceso inscripcion
+__label__47 tipo adaptaciones ofrecen personas discapacidad universidad
+__label__115 plataforma inscribirme
+__label__161 registro extranjero
+__label__110 restriccion geografica inscribirme sede amazonia caribe orinoquiatumaco
+__label__95 elegibles participar paes victimas
+__label__17 opciones programas ciclo estudios
+__label__27 requisitos cumplir estudiar biologia
+__label__47 requisitos admision estudiantes baja vision
+__label__67 casos homologar materias
+__label__120 registrar universidad nacional
+__label__85 has consultado algun problema tecnico pagina impidiendo obtener cita
+__label__39 informacion necesita renovar codigo seguridad
+__label__95 consiste proceso admision paes victimas
+__label__47 postularme programa pregrado discapacidad multiple sordoceguera
+__label__47 plazas disponibles estudiantes condicion discapacidad
+__label__111 fecha limite efectuar pago virtual derechos inscripcion
+__label__74 prueba icfes realizada participar proceso admision
+__label__160 necesario experiencia laboral previa admitido programa generacion
+__label__74 utilizar prueba realice universidad nacional sustituto icfes
+__label__53 medidas accesibilidad implementando procesos admision posgrado personas discapacidad
+__label__168 cumplo criterio icfes solicitud devuelvan dinero inscripcion
+__label__154 detallarme razones admitido programa mejores bachilleres haberme inscrito
+__label__5 recibir notificaciones resultados admision
+__label__34 codigo icfes debo ingresar formulario termine bachillerato extranjero
+__label__0 realizan pruebas especificas teatro
+__label__31 tienes informacion acerca codigo icfes colegio graduaste anos
+__label__47 medidas toman asegurar inclusion personas discapacidad cognitiva intelectual universidad
+__label__65 sistema muestra mensaje indicando numero documento inscrito inscripcion anteriormente solucion
+__label__151 fechas limite consultar presentar resultados icfes ingresar universidad nacional
+__label__92 universidad nacional algun programa especifico becas estudiantes pregrado
+__label__152 puedes resultado proceso admision carreras seleccion
+__label__54 casos similares aspirantes discapacidad categorizados aspirantes regulares resultados admisiones
+__label__61 beneficios abrir bancaria tarjeta identidad
+__label__106 estudiante grado onceo colegiode institucion educativa nombre municipio
+__label__89 encontrar formulario fore registro sede manizales
+__label__54 motivo aparezco modalidad aspirante discapacidad resultados admisiones enviado documentacion correspondiente
+__label__162 documentos debo presentar solicitar admision universidad nacional
+__label__0 fecha limite inscribirse
+__label__91 tarda proceso registro formulario fore sede paz
+__label__11 proceso inscribirme programa academico
+__label__92 opciones admision especial ofrece universidad
+__label__83 acepta entrega documentos correo electronico preferible fisico
+__label__138 dura prueba examen admision
+__label__124 disponible servicio atencion persona departamento admisiones actualidad
+__label__167 debo contactar solicitar devolucion fondos inscripcion universitaria
+__label__83 disponibles recibos matricula
+__label__111 pago virtual derechos inscripcion
+__label__118 limite carreras postularme
+__label__71 dura examen suficiencia ingles
+__label__53 recursos adicionales ofrecen personas discapacidad ayudarles preparacion prueba admision posgrado
+__label__136 limite responder evaluacion admision
+__label__104 titulo obtuviste colegioinstitucion educativa
+__label__99 beneficios ofrece programa comunidades indigenaspara indigenas participantes
+__label__32 codigo icfes colegio aparece formulario correcto
+__label__104 grado fuiste reconocido bachiller promocion
+__label__25 obtener titulo universitario linea
+__label__98 entidad debo acudir inscripcion aspirante indigena
+__label__99 proceso admision estudiar universidad nacional
+__label__56 pasos seguir prepararse examen admision universidad nacional
+__label__79 posicion lista elegibles
+__label__0 periodo llevan cabo pruebas especificas artes plasticas
+__label__71 proporcionarme fecha exacta examen certificacion ingles
+__label__79 forma determinar entran lista espera
+__label__1 seran anunciados resultados
+__label__65 soluciono problema sistema indique numero documento inscrito realidad
+__label__60 doble nacionalidad debo inscribirme
+__label__32 variacion codigo icfes colegio formulario
+__label__59 notificaron registro erroneamente discapacidad formulario inscripcion arreglarlo
+__label__49 acceder version interactiva prueba admision personas discapacidad psicosocial mental
+__label__167 algun costo asociado solicitud devolucion
+__label__98 plazo inscripcion aspirante indigena
+__label__94 abierta convocatoria inscripcion victimas conflicto armado bachilleres academicos
+__label__93 programa admision victimas conflicto disponible programas doctorado
+__label__74 inscripcion prueba tyt valida
+__label__5 solicitar revision resultados admision
+__label__112 algun plazo limite obtener numeros factura confirmacion
+__label__0 realizan pruebas especificas artes plasticas
+__label__85 madre ingresos subir documento notaria prueba ingresos
+__label__9 metodo utilizado proceso admision
+__label__151 darme detalles calificado examen
+__label__0 dejan aceptar inscripciones
+__label__161 pago derechos inscripcion
+__label__59 forma rectificar error senalado discapacidad inexistente formulario inscripcion
+__label__8 consultar fechas convocatoria actual
+__label__112 algun error direccion correo electronico impida recibir comprobante pago virtual derechos inscripcion
+__label__17 obtener informacion ofertas programas trimestre
+__label__53 ofrecen adaptaciones especiales prueba admision posgrado personas discapacidad
+__label__34 codigo icfes especifico estudios bachillerato extranjero
+__label__94 requisitos necesitan inscribirse programa pregrado universidad nacional
+__label__71 programado examen certificacion ingles
+__label__140 contenido problemas prueba examen admision
+__label__32 error graduandos cohorte colegio esten formulario inscripcion
+__label__167 requisitos pedir devolucion dinero inscripcion universitaria
+__label__39 necesario renovar codigo seguridad
+__label__144 incluidos grupo presentar pruebas especificas
+__label__99 ventajas especiales indigenas entrar universidad
+__label__162 plazos solicitar admision estudiante extranjero universidad nacional
+__label__65 proceso inscripcion encuentro situacion sistema informa numero documento registrado comprendo debo
+__label__99 privilegios adicionales obtienen indigenas admitidos universidad
+__label__0 plazo comprar derechos inscripcion
+__label__18 catalogo carreras disponibles universidad
+__label__31 codigo dane universidad
+__label__27 aplican pruebas particulares carrera arquitectura aspectos evaluados
+__label__47 algun tipo apoyo especifico personas discapacidad cognitiva intelectual proceso admision
+__label__99 positivas experimentar aspirantes participan programa comunidades indigenaspara indigenas
+__label__24 requisitos debo cumplir estudiar terapia lenguaje universidad
+__label__161 oficina debo acudir inscripcion
+__label__61 fechas inscripcion dependiendo programa
+__label__125 admiten estudiantes anos universidad
+__label__162 plazos fechas limite solicitar ingreso universidad nacional
+__label__85 opciones has intentado obtener cita
+__label__155 motivo especifico aceptado programa indigenas registrado
+__label__37 recibir nuevamente codigo seguridad
+__label__93 programas admision especial universidad nacional ingresar posgrados
+__label__104 beneficios reconocido bachiller
+__label__12 obtener puntajes procesos anteriores
+__label__35 cambiar codigo seguridad
+__label__128 debo tarjeta identidad deteriorada quiero inscribirme universidad nacional
+__label__83 alternativa caso recibir respuesta ventanilla virtual
+__label__109 procedimiento seguir beneficiarioa programa admision especial peama reuno requisitos
+__label__156 averiguar resultado ingreso
+__label__130 comienza registro inscripcion
+__label__109 fecha limite postularme programa peama sede orinoquia
+__label__125 aceptan inscripciones personas edades
+__label__47 beneficios facilidades adicionales otorgarse estudiantes sindrome asperger universidad nacional
+__label__95 derechos personas participan programa victimas
+__label__99 facilidades brindan nativos solicitar admision universidad
+__label__16 cambios datos ingrese formulario inscripcion
+__label__71 explicar inscribirme examen ingles
+__label__112 recuperar comprobante pago virtual derechos inscripcion convocatoria perdi
+__label__0 periodo llevaran cabo inscripciones proceso
+__label__92 programas especiales admision universidad
+__label__37 debo codigo seguridad
+__label__54 requisitos acceder becas personas situacion discapacidad universidad
+__label__83 obtener copia documento faltante
+__label__13 pagado inscripcion posibilidad presentar prueba admision
+__label__62 pasos debo seguir obtener copia documento extraviado
+__label__122 senalarme ubicacion exacta oficina admisiones
+__label__86 duracion programa curricular
+__label__36 digitos componen codigo seguridad
+__label__0 realizan pruebas especificas artes plasticas
+__label__96 proceso admision presente programa victimaspaes victimas exito intentarlo convocatoria
+__label__99 oportunidades graduados universidad nacional
+__label__39 inscribo periodos seguidos codigo seguridad renueva
+__label__27 realizan evaluaciones particulares carrera medicina contenidos evaluados
+__label__112 acciones tomar sistema reconoce numeros formalizar inscripcion
+__label__98 requisitos debo cumplir aplicar cupo indigenas indigena base datos ministerio interior
+__label__38 alternativa recuperar codigo seguridad enlace funciona
+__label__78 obtuve puntaje icfes mejorarlo
+__label__72 gustaria agendar cita presentar prueba ingles periodo
+__label__58 recursos disponibles personas discapacidad puedan estudiar universidad
+__label__106 algun tipo apoyo economico participantes programapaes mejores bachilleres
+__label__99 requisitos ingresar universidad nacional
+__label__157 razon resultados prueba admision cero
+__label__7 proceso admision calificaciones examen icfes
+__label__27 examenes particulares carrera psicologia formato
+__label__94 documentos debo presentar inscribirme programa pregradocarreraprograma
+__label__47 algun formulario documento especifico deba completar solicitar adaptaciones
+__label__95 requisitos debo cumplir derecho exencion derechos inscripcion victima conflicto armado desplazado
+__label__72 protocolo seguir realizo examen clasificatorio ingles cumplo requisito idioma
+__label__99 aspectos positivos obtienen aspirantes unen programa comunidades indigenaspara indigenas
+__label__6 obtener cronograma proceso admision
+__label__0 limite inscribirme
+__label__31 obtener codigo icfes colegio linea
+__label__18 programas academicos universidad
+__label__49 acceder presentaciones interactivas prueba ingreso personas discapacidad cognitiva intelectual
+__label__152 puedes informar resultado proceso admision carreras seleccion
+__label__83 caso obtener respuesta ventanilla virtual
+__label__23 areas academicas oportunidades
+__label__31 codigo necesito identificar colegio graduacion
+__label__112 vias obtener numeros factura confirmacion
+__label__79 lista elegibles encuentro
+__label__92 solicitar beca ingresar programa pregrado universidad nacional
+__label__116 restriccion edad competir
+__label__152 puedes contar proceso admision carreras seleccion
+__label__83 obtener matricula cero
+__label__104 proceso seleccion programa dirigido mejores bachilleres
+__label__116 unirme concurso edad
+__label__51 recursos interactivos disponibles ayudar personas discapacidad visual pruebas admision
+__label__83 plazo inscripcion estudiantes activos
+__label__47 requisitos admision personas discapacidad nombre programa
+__label__161 encontrar examen
+__label__10 encontrar respuestas preguntas proceso admision
+__label__7 puntaje obtenido icfes determinante proceso admision
+__label__85 informacion adicional proporciona pagina indica cita asignada
+__label__161 diferencia proceso inscripcion extranjeros
+__label__98 algun limite cupos estudiantes indigenas universidad nacional
+__label__35 digitos codigo seguridad
+__label__166 tarda proceso devolucion derechos inscripcion universidad
+__label__110 inscribirme carrera deseo sede amazonia caribe orinoquiatumaco aparezcan carreras sedes
+__label__74 examen icfes febrero debo inscribirme
+__label__36 longitud codigo seguridad
+__label__24 carrera terapia lenguaje universidad
+__label__48 algun numero telefono llamar obtener informacion cursos postgrado personas discapacidad
+__label__94 necesito informacion requisitos pasos seguir inscribirme unidad victimas puedes indicar
+__label__94 personas aceptadas programa pregrado universidad nacional
+__label__71 decirme realizara examen certificacion ingles
+__label__87 calendario clases establecido admitidos sede bogota
+__label__9 porcentaje admision mantenido ultimos anos
+__label__57 aplican descuentos matriculasemestre estudiantes discapacidad
+__label__79 puedes detallarme registro lista espera
+__label__168 debo contactar solicitar devolucion derechos inscripcion
+__label__20 requisitos necesito cumplir estudiar musica
+__label__158 debo sisben actualizado censo realiza finalizado proceso inscripcion
+__label__161 necesario traslade colombia participar proceso admision encuentro
+__label__54 proceso evaluacion asignacion puntajes especiales prueba admision personas situacion discapacidad universidad nacional
+__label__39 renovar codigo seguridad
+__label__166 debo dirigirme obtener devolucion derechos inscripcion utilice pin
+__label__38 pasos alternativos obtener codigo seguridad enlace accesible
+__label__161 toma completar proceso inscripcion extranjeros
+__label__59 corregir informacion correo menciona discapacidad equivocada
+__label__1 recibire respuesta postulacion
+__label__69 alternativa presentar examen nivelacion ingles semestre
+__label__0 vencen derechos inscripcion
+__label__146 mejores tecnicas manejar estres prueba admision
+__label__156 plataforma puntaje admision
+__label__6 consultar calendario academico proceso admision
+__label__47 programas servicios apoyo especificos personas discapacidad visual universidad
+__label__41 obtener confirmacion inscripcion procesada
+__label__150 explicacion admision periodo academico inscrito programa movilidad peama
+__label__85 pasos debo seguir activar correo institucional admitido
+__label__164 criterios seleccion utilizan aceptar estudiantes institucion
+__label__0 cerraran inscripciones proceso
+__label__166 algun plazo limite solicitar devolucion pin pague use
+__label__98 tardes gustaria solicitar ingreso base datos universidad nacional indigena cabo respectiva inscripcion pregrado brindarme instrucciones
+__label__17 acceder lista programas ofertados semestre
+__label__13 presentacion prueba admision condicionada pago inscripcion
+__label__28 dura carrera medicina programa curricular
+__label__89 algun tipo orientacion asistencia disponible registro formulario fore sede manizales
+__label__134 algun problema resultados admision muestran inscripcion
+__label__1 recibire noticias admision
+__label__149 promedio calificaciones puntaje minimo requerido admitido carreras inscribi
+__label__56 universidad nacional ofrece apoyo especifico estudiantes implante coclear
+__label__168 cumplo criterio icfes pedir reembolsen dinero inscripcion
+__label__72 solicito respetuosamente fecha presentar examen clasificacion lengua pude anteriormente razones salud
+__label__4 asegurarme perder oportunidad inscribirme universidad resultados icfes salen
+__label__152 resultado proceso admision carreras seleccion
+__label__37 paso codigo seguridad
+__label__46 debo necesito cambiar documento comprobante inscripcion
+__label__29 alumno admitido examen icfes posibilidad cambiar carrera cumple requisitos especificados universidad
+__label__47 demora proceso evaluacion solicitudes adaptaciones
+__label__103 beneficios programa admision especialpaes personas edad
+__label__93 verificar elegible programa admision victimas conflicto
+__label__73 ecaes garantiza autenticidad certificacion examen ingles
+__label__123 hora cierra oficina admisiones
+__label__130 ubica guia indicaciones paso paso
+__label__47 evalua aprueba solicitudes adaptaciones ajustes razonables universidad
+__label__77 perdi fecha inscripcion icfes posibilidad
+__label__12 forma consultar puntajes procesos anteriores
+__label__161 realizan pruebas admision aspirantes extranjeros
+__label__170 opciones disponibles asistir proceso admision incapacidad medica
+__label__83 algun limite aplazar semestre
+__label__35 medidas tomar mejorar seguridad codigo
+__label__49 desarrollado aplicaciones programas informaticos interactivos evaluar personas discapacidad cognitiva intelectual prueba ingreso
+__label__85 proceso entrega documentacion formalizar matricula
+__label__30 cuesta carrera medicina
+__label__56 requisitos estudiar universidad nacional
+__label__14 pague derechos inscripcion debo inscripcion
+__label__45 validez comprobante inscripcion
+__label__104 daran beneficiariosparticipantes programabeca
+__label__129 telefono llamar bogota
+__label__106 dura programapaes mejores bachilleres
+__label__20 especializaciones disponibles musica
+__label__112 opciones hice pago virtual derechos inscripcion numeros factura confirmacion
+__label__16 modificaciones formulario inscripcion
+__label__120 solicitar ingreso universidad nacional
+__label__76 validante participar icfes
+__label__46 debo cambiar documento comprobante inscripcion
+__label__106 estudiantes seleccionados ano programapaes dirigido mejores bachilleres municipios pobres
+__label__72 procedimiento seguir completado examen clasificatorio ingles cumplir requisito idioma
+__label__83 metodos utilizar fragmentar recibo pago
+__label__108 solicitar informacion adicional proceso admision
+__label__24 alternativas carreras relacionadas terapia lenguaje ofrecen universidad
+__label__39 pasa codigo seguridad expira
+__label__77 inscribirme presentar icfes cerrado inscripciones
+__label__112 olvide guardar numeros factura confirmacion pago virtual derechos inscripcion recuperar
+__label__99 algun beneficio descuento indigenas pago derechos inscripcion
+__label__74 permitido inscribirse proceso admision prueba icfes previa
+__label__44 obligatorio impreso comprobante inscripcion
+__label__17 oferta programas semestre
+__label__168 procedimiento solicitar devolucion derechos inscripcion pague asistire universidad
+__label__161 bancos aceptan pagos internacionales derechos inscripcion
+__label__99 derechos exclusivos nativos solicitar ingreso universidad
+__label__40 similitud codigo verificacion codigo seguridad
+__label__48 obtener informacion detallada ajustes razonables disponibles examen admision programa posgrado personas discapacidades
+__label__149 mejorar posibilidades admitido carreras interesan
+__label__47 tipo documentacion pruebas diagnostico requieren solicitar adaptaciones academicas
+__label__122 ubicacion oficina admisiones
+__label__40 pin numero acceso iguales
+__label__54 evalua personas discapacidad prueba admision
+__label__30 debo invertir estudiar medicina
+__label__130 registrar inscripcion
+__label__87 dara calendario matricula sede bogota
+__label__94 requisitos necesarios inscribirme programa pregradocarreraprograma deseo
+__label__47 algun programa orientacion especifico padres menores condicion discapacidad deseen aplicar institucion
+__label__79 notifica personas turno lista espera
+__label__0 fecha limite inscribirme pruebas especificas artes plasticas
+__label__1 publicaran resultados
+__label__21 obtener informacion precisa carreras universitarias
+__label__36 pasos seguir encontrar codigo seguridad
+__label__50 prueba admision traducida lengua senas colombiana disponible formato interactivo
+__label__93 proceso admision personas desplazadas victimas conflicto armado proceso regular
+__label__97 proceso inscripcion programa victimaspaes victimas opcion marcar programa decirme motivo omision pasos debo seguir
+__label__111 valido pago virtual derechos inscripcion
+__label__86 asignaturas optativas programa curricular
+__label__131 materiales debo presentar prueba admision universidad nacional
+__label__139 contenidos evaluan prueba admision
+__label__98 algun documento registro valido aplicar cupo indigenas base datos ministerio interior
+__label__0 realizan pruebas especificas cine
+__label__138 basa puntuacion prueba admision
+__label__52 demostracion interactiva personas discapacidad visual prueba admision
+__label__94 duracion programa paes
+__label__112 pasos debo seguir numeros factura confirmacion
+__label__25 diferencia estudiar distancia presencial universidad
+__label__61 recomendable inscribirme tarjeta cumplir anos esperar cedula
+__label__162 obtener informacion pagar derechos inscripcion encuentro colombia
+__label__41 computador saco proceso inscripcion
+__label__83 lanzados recibos matricula
+__label__61 tarda tramite obtener tarjeta identidad
+__label__74 debo inscribirme prueba icfes fecha
+__label__22 asignaturas componen programa estudios arquitectura
+__label__0 comprar pin
+__label__79 pasos debo seguir entrar lista espera
+__label__7 daran criterios admision periodo academico
+__label__161 acceder educacion superior presentar icfes
+__label__166 monto devolucion pin convocatoria
+__label__149 promedio puntajes ingreso ultimos semestres
+__label__41 forma contactar centro inscripcion caso dudas registro falta luz
+__label__34 finalice bachillerato codigo icfes debo incluir formulario
+__label__106 quieres colegio seleccionados recibir beca
+__label__28 dura carrera ingenieria informatica programa curricular
+__label__63 elegible inscribirme presentar copia documento
+__label__32 codigo icfes colegio aparece formulario valido
+__label__26 cuentan opciones certificaciones profesionales
+__label__130 pasos debo completar inscripcion
+__label__58 tipo apoyo ofrece personas discapacidad estudios universitarios
+__label__7 conoceremos postura universidad acerca icfes examen admision proxima admision
+__label__79 ubicacion lista elegibles
+__label__47 algun programa orientacion personas discapacidad proceso admision
+__label__0 inicio proceso admision
+__label__25 factible obtener titulo universitario remota
+__label__15 debo esperar aceptad
+__label__34 hice bachillerato codigo icfes debo formulario
+__label__167 procedimiento solicitar devolucion matricula universitaria
+__label__150 admitido ciclo escolar solicitado formar programa movilidad peama
+__label__41 averiguar solicitud inscripcion aceptada
+__label__57 metodos pago aceptados matriculasemestre
+__label__164 becas disponibles movilidades internacionales universidad nacional
+__label__69 procedimiento caso presentado examen nivelacion ingles semestre
+__label__98 hola interesado solicitar ingreso base datos universidad nacional indigena completar respectiva inscripcion pregrado periodo academico ayudarme
+__label__99 recompensas obtienen personas involucran programa comunidades indigenaspara indigenas
+__label__95 cupos disponibles proceso admision paes victimas
+__label__7 fecha aproximada espera universidad informe utilizacion icfes examen admision proceso admision
+__label__27 requisitos estudiar medicina
+__label__109 algun curso nivel idioma requerido aplicar programa peama sede orinoquia
+__label__74 presente prueba icfes permiten inscribirme proceso admision
+__label__0 admiten inscripciones
+__label__161 ofrece apoyo academico adicional aspirantes extranjeros
+__label__111 pago virtual derechos inscripcion
+__label__105 ventajas ofrecen personaslos aspirantes postulan programapaes mejores estudiantes
+__label__112 soluciones numeros coinciden inscripcion sistema
+__label__117 universidades exige prueba especifica ingresar carrera
+__label__161 ventajas extras aspirantes extranjeros
+__label__161 requisitos proceso admision aspirante extranjero
+__label__162 proceso admision estudiantes extranjeros universidad nacional
+__label__41 forma averiguar inscribi
+__label__58 becas disponibles especificamente estudiantes discapacidad universidad
+__label__162 areas estudio disponibles universidad nacional
+__label__9 criterios considerados admision
+__label__166 recuperar dinero hice pago virtual derechos inscripcion utilice recibir numeros factura confirmacion
+__label__72 proporcionarme informacion pedir cita presentar prueba ingles periodo
+__label__32 alternativas encontrar codigo icfes colegio formulario inscripcion
+__label__162 proceso seleccion ingresar universidad nacional
+__label__149 solicitar revision proceso admision carreras inscribi
+__label__67 encarga homologacion materias
+__label__61 tarjeta identidad fecha vencimiento
+__label__84 algun requisito especial matricula
+__label__148 opciones examen discapacidad
+__label__2 realizara examen ingreso
+__label__12 obtener puntajes procesos anteriores
+__label__16 algun plazo modificaciones formulario inscripcion
+__label__57 precio semestre personas situacion discapacidad
+__label__59 forma corregir informacion incorrecta proporcionada formulario inscripcion acerca discapacidad
+__label__94 plazos pago inscripcion programa pregrado universidad nacional
+__label__83 metodo entrega conveniente documentos
+__label__94 obtener informacion fechas plazos convocatorias inscripcion
+__label__164 dura movilidad internacional universidad nacional
+__label__98 documentos necesito presentar estudiante indigena inscribirme universidad nacional
+__label__86 creditos requieren completar programa curricular
+__label__113 medidas tomar sistema indica inscripcion aprobada entidad financiera
+__label__61 habria algun impedimento inscripcion cumplir mayoria edad
+__label__128 implicaciones inscribirme universidad nacional documento identidad distinto actual
+__label__162 documentos necesarios inscribirse universidad nacional extranjero
+__label__41 esperar quede inscrito luz regrese
+__label__49 encontrar informacion recursos utiles prueba admision tienes discapacidad psicosocial mental
+__label__109 beneficios ofrece programa peama sede orinoquia
+__label__139 criterios evaluacion examen admision
+__label__72 solicitar oportunidad presentar examen clasificacion ingles
+__label__90 beneficios obtengo registro formulario fore sede palmira
+__label__48 algun tipo apoyo adicional estudiantes discapacidad carrera deseo ingresar
+__label__92 becas estudiantes internacionales deseen estudiar carrera programa curricular pregrado
+__label__24 aparece carrera terapia lenguaje lista carreras ofrecidas universidad
+__label__75 prueba original
+__label__138 ventajas aprobar prueba examen admision
+__label__61 costo obtener tarjeta identidad
+__label__36 hallar codigo seguridad
+__label__105 ganancias obtienen formar programapaes mejores bachilleres
+__label__162 requisitos solicitan inscribirse extranjero universidad nacional
+__label__164 gustaria correo electronico direccion relaciones exteriores ayudar
+__label__5 encontrar resultados admision
+__label__122 queda oficina admisiones
+__label__71 fechas previstas examenes ingles
+__label__97 encuentro proceso inscripcion programa victimaspaes victimas logro encontrar casilla correspondiente programa alguien explicarme visible debo proceder
+__label__0 admiten inscripciones fecha
+__label__74 valido extranjeros registro presentando prueba similar icfes hayan procedencia
+__label__154 motivo aceptado programa mejores bachilleres registrado
+__label__10 canal comunicacion obtener informacion proceso admision
+__label__138 consecuencias aprobar prueba examen admision
+__label__36 codigo seguridad personalizado
+__label__130 etapas forman proceso inscripcion
+__label__69 semestre avanzado presentado examen nivelacion ingles debo
+__label__120 algun limite cantidad inscribirme universidad nacional
+__label__35 proposito codigo seguridad
+__label__74 personas extranjeras inscribirse prueba similar icfes
+__label__157 causado resultados prueba admision aparezcan cero
+__label__102 pasos debo seguir inscribirme universidad nacional afrocolombianoaperteneciendo poblacion afrocolombianaraizal
+__label__83 decirme obtener matricula cero
+__label__96 participe proceso admision programa victimaspaes victimas rechazadoa intentarlo convocatoria
+__label__39 dura vigencia codigo seguridad
+__label__36 consiste codigo seguridad
+__label__19 opciones estudiar universidad noches
+__label__162 programas apoyo academico ofrece universidad nacional estudiantes extranjeros
+__label__59 correo menciona discapacidad cambiar informacion erronea
+__label__108 programascarreras pregrado ofrece sede paz
+__label__112 debo sistema indica numeros correctos inscribirme
+__label__151 promedio debo resultados icfes admitido universidad nacional
+__label__79 opcion lista espera puedan admitidos inmediatamente
+__label__64 has buscado informacion relevante sitio web registraduria
+__label__133 admitido
+__label__146 recomendaciones tienes optimizar examen admision
+__label__133 debo ingresar resultados admision
+__label__113 permitido utilizar pago virtual derechos inscripcion realice convocatoria
+__label__41 pasos debo seguir verificar inscripcion formulario muestra registrado
+__label__94 fecha limite inscripcion programa pregrado universidad nacional
+__label__47 servicios accesibilidad universidad nacional estudiantes sindrome asperger
+__label__84 horarios atencion oficina registro matricula
+__label__168 caso cumplir criterio icfes pasos debo seguir obtener devolucion dinero inscripcion
+__label__167 transferir matricula semestre solicitar devolucion cuota
+__label__85 madre ingresos tipo soporte utilizar documento notaria certificado ingresos
+__label__31 codigo especifico colegio gradue
+__label__161 fecha inscribirme extranjero
+__label__58 recursos ofrecen estudiantes aceptados programa
+__label__134 recibi ningun correo confirmacion pasos debo seguir asegurarme inscrita
+__label__47 acciones realiza universidad brindar apoyo personas discapacidad psicosocial mental
+__label__134 estaran disponibles resultados admision inscripcion
+__label__36 ocurre ingresa codigo seguridad incorrecto
+__label__99 beneficios sociales obtener cabildo indigena
+__label__47 completar proceso solicitud
+__label__35 funcion cumple codigo seguridad
+__label__72 gustaria examen suficiencia institucion
+__label__119 elegir distintas sedes rendir evaluacion
+__label__110 inscribirme peama solicitar cambio sede amazoniacaribeorinoquiatumaco
+__label__73 restricciones entregar certificado suficiencia externo
+__label__64 corregir error numero documento
+__label__166 tarda proceso devolucion derechos inscripcion icfes
+__label__149 explicacion admision periodo academico
+__label__72 obtener informacion distintas opciones disponibles validar nivel ingles
+__label__42 acceder datos inscripcion
+__label__83 solucion padres cargo gastos
+__label__94 proceso seleccion estudiantes inscriben traves convocatoria
+__label__161 debo regresar colombia participar proceso admision encuentro exterior
+__label__83 estaran disponibles recibos matricula linea
+__label__67 documentos debo presentar homologar materias
+__label__161 presentar prueba
+__label__166 necesario presentar algun documento adicional solicitar devolucion pin utilizado
+__label__95 procedimiento solicitar exencion derechos inscripcion victima conflicto armado desplazado
+__label__19 opciones grado obtener horario nocturno
+__label__94 obtener informacion fecha inscripcion pregradocarreraprograma quiero cursar
+__label__105 medida paesprograma mejores bachilleres influye proceso admision
+__label__153 utilizo puntaje obtenido septiembre carreras admision semestre
+__label__39 restricciones cambiar codigo seguridad modificaciones datos
+__label__140 tienes resolver problemas prueba examen admision
+__label__108 proceso admision ingresar universidad nacional colombia sede paz
+__label__154 criterios tomaron decidir admitido programa mejores bachilleres seleccionado
+__label__71 proporcionarme fechas procedimiento inscripcion examen suficiencia ingles
+__label__137 obligatorio aprobar examen admitido
+__label__137 superar evaluacion admitido
+__label__7 habra variacion proceso admision resultados icfes
+__label__110 encuentran disponibles carrerasprogramas sede amazoniacaribeorinoquiatumaco formulario peama
+__label__161 idioma imparten clases aspirantes extranjeros
+__label__38 opciones enlace recuperacion obtener codigo seguridad
+__label__146 algun metodo estudio efectivo recomendarias prepararme prueba admision
+__label__164 documentacion debo presentar movilidad internacional
+__label__166 debo pague pin deseo continuar proceso admision
+__label__94 proceso inscripcion personas interesadas estudiar victimas conflicto armado
+__label__83 acciones tomar padres provee financieramente
+__label__38 opciones disponibles enlace recuperacion codigo seguridad habilitado
+__label__90 algun costo registro formulario fore sede palmira
+__label__42 razon visualizar comprobante inscripcion
+__label__7 resultados icfes seran tomados consideracion proceso admision
+__label__158 paso seguir sisben actualizado censo cabo concluido inscripcion
+__label__125 ventajas ingresar universidad edad
+__label__19 cursar carrera universitaria horario nocturno
+__label__37 algun metodo obtener codigo seguridad caso olvido
+__label__25 programas academicos linea universidad
+__label__75 tramites debo seguir convalidar prueba hice icfes
+__label__83 recoger carne universidad
+__label__159 fecha limite entregar documentos inscripcion programa generacion
+__label__60 necesita evidencia adicional doble nacionalidad registrarme
+__label__28 dura carrera educacion programa curricular
+__label__46 documentacion requerida corregir documento comprobante inscripcion
+__label__105 ganancias obtienen programa admision especial mejores bachilleres
+__label__164 cupos disponibles movilidades internacionales universidad nacional
+__label__74 valido inscribirse utilizando prueba ecaes
+__label__147 imparten cursos preparacion evaluacion ingreso
+__label__34 numero codigo icfes necesito colocar formulario obtuve diploma bachiller exterior
+__label__163 algun costo asociado obtencion numero registro examen extranjeros
+__label__83 has consultado manual usuario fore obtener informacion adicional subir documentos
+__label__75 participar prueba original
+__label__18 campos estudio enfoca universidad
+__label__74 prueba icfes periodo presentar proceso admision
+__label__27 evaluaciones especificas carrera enfermeria componentes
+__label__31 codigo icfes colegio graduaste anos
+__label__112 llegado comprobante pago virtual derechos inscripcion
+__label__111 debo solicitar ayuda encontrar numeros factura confirmacion
+__label__85 informa costo matricula estudiantes admitidos
+__label__111 fecha limite pago virtual derechos inscripcion
+__label__150 aceptado periodo estudios completado tramites unirme programa movilidad peama
+__label__166 pague pin intencion continuar admision solicitar reembolso
+__label__1 sabre admitido
+__label__45 casos utiliza comprobante inscripcion
+__label__168 algun requisito especifico deba cumplir solicitar devolucion derechos inscripcion
+__label__85 ano suele ocurrir proceso matricula admitidos
+__label__12 verificar puntajes procesos anteriores
+__label__107 incentivos brindan aspirantes participan programa mejores bachilleres municipios pobres
+__label__47 oficina departamento especializado universidad nacional encargue recibir documentos ingreso personas sindrome asperger
+__label__83 abordar situacion padres proveedor necesidades financieras
+__label__47 fechas limite presentar solicitud
+__label__162 forma aplicacion aspirantes residencia
+__label__103 beneficios economicos programa afrocolombianosla poblacion afrocolombiana
+__label__1 hora recibo informacion admision
+__label__72 alternativas validar capacidad ingles presentar examen clasificacion
+__label__106 duracion programapaes dirigido mejores bachilleres municipios pobres
+__label__9 tipo evaluacion realiza proceso admision
+__label__134 procedimientos debo seguir encuentro nombre lista inscritos
+__label__98 obtener informacion inscripcion estudiantes indigenas universidad nacional
+__label__54 aseguran estudiantes discapacidad tengan ambiente accesible acogedor
+__label__59 formulario inscripcion indica incorrectamente discapacidad cambiarlo
+__label__2 fecha establecida examen ingreso
+__label__46 debo acudir arreglar documento comprobante inscripcion
+__label__74 sustituir examen icfes universidad nacional
+__label__112 necesito numeros factura confirmacion pago virtual derechos inscripcion debo
+__label__41 necesito verificacion datos inscripcion informacion
+__label__80 seria respuesta institucion admitidos deciden aplazar semestre
+__label__60 tipo documento requiere inscribirme
+__label__144 individuos necesitan entregar pruebas especificas
+__label__25 universidad programas educacion linea
+__label__151 serias amable explicarme consistio calificacion examen
+__label__161 documentos necesito proceso admision extranjero
+__label__42 recomendacion comprobante inscripcion veo
+__label__71 necesita presentar examen suficiencia ingles
+__label__82 requisitos debo cumplir registrarme
+__label__152 consultar puntuacion admitido programas seleccione
+__label__98 gestiones necesarias acceder beneficios cabildo indigena
+__label__65 debo inscribirme sistema muestra numero documento registrado
+__label__106 requisitos acceder programapaes mejores bachilleres
+__label__161 obligatorio traslade colombia quiero solicitar admision exterior
+__label__164 requisitos ingresar universidad sao paulo
+__label__60 pasaporte nacional documentacion aceptable inscribirme
+__label__15 tramites debo cabo aceptad
+__label__35 caja viene codigo seguridad
+__label__14 pago derechos inscripcion inscripcion
+__label__94 obtener beneficios especiales inscribirme programa pregradocarreraprograma condicion victima conflicto armado
+__label__32 afectara cambio codigo icfes colegio gradue futuros estudiantes
+__label__83 obtener asistencia responden ventanilla virtual
+__label__83 obtener matricula cero
+__label__71 costo inscripcion examen suficiencia ingles pregrado
+__label__101 participar proceso admision programa comunidades indigenas
+__label__99 cuesta matricula universidad nacional
+__label__79 procedimiento registrarme lista espera
+__label__25 universidades ofrecen tutorias clases virtuales estudiantes distancia
+__label__120 numero maximo inscribir universidad nacional
